@@ -59,7 +59,7 @@ fun NotesScreen(
             ) {
                 Text(
                     text = "My Notes",
-                    style = MaterialTheme.typography.h4
+                    style = MaterialTheme.typography.h5
                 )
                 IconButton(
                     onClick = {
