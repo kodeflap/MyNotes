@@ -55,15 +55,7 @@ So let's get started.
 1.  Check out the [Google Map SDK documentation ](https://developers.google.com/maps/documentation/android-sdk/get-api-key) and get the API key.
 2. [Clone the repo](https://github.com/poojaOfficial321/Tracker_Go.git)
 3. Start a new project as import from Version Control in android studio and paste the clone URL and finish.
-4. Go to Android Manifest and check for <meta - data/>  tag error will be shown in it can be solved by doing the following:
- - Go to step 1 and get unique [Google Map key](https://developers.google.com/maps/documentation/android-sdk/get-api-key) and go to : 
-
-``` res -> values -> strings 
-<string android: name = "map_key"> Paste your API key Here</string>
-```
-So now the error will be solved.
-
-5.  Run your application.
+4.  Run your application.
 
 
 ## Contributing
