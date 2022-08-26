@@ -1,5 +1,5 @@
 
-# About Tracker Go
+# About MyNotes
 
 My Notes is an app that helps you to keep your base notes. You can insert, update and delete note as you wish. The saved notes can be sorted based on your choice like title, date, color which can be sorted then to ascending and descending as well. The notes app is provided with a color palette where you can choose your personal color. The dark theme in the app helps to stand out your every note you wrote. Just write notes and keep them organized at My Notes. Keep your notes in your space and take notes anywhere you want.
 
