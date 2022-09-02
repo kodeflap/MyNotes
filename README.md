@@ -6,11 +6,11 @@ My Notes is an app that helps you to keep your base notes. You can insert, updat
 
 ## Features
 
--Minimal UI
--Add new notes
--Easy Updation
--Undo Feature
--Easy deletion
+- Minimal UI
+- Add new notes
+- Easy Updation
+- Undo Feature
+- Easy deletion
 
 ## Tech Stack
 
@@ -20,11 +20,11 @@ My Notes is an app that helps you to keep your base notes. You can insert, updat
 ###  Libraries
 
 - Jetpack compose
--Room
--Coroutine
--Dagger-hilt
--Kotlin-extension
--Staggered Grid
+- Room
+- Coroutine
+- Dagger-hilt
+- Kotlin-extension
+- Staggered Grid
 
 ## APP ScreenShot
 
@@ -52,10 +52,10 @@ So let's get started.
 
 ### Installation
 
-1.  Check out the [Google Map SDK documentation ](https://developers.google.com/maps/documentation/android-sdk/get-api-key) and get the API key.
-2. [Clone the repo](https://github.com/poojaOfficial321/Tracker_Go.git)
-3. Start a new project as import from Version Control in android studio and paste the clone URL and finish.
-4.  Run your application.
+
+1. [Clone the repo](https://github.com/poojaOfficial321/Tracker_Go.git)
+2. Start a new project as import from Version Control in android studio and paste the clone URL and finish.
+3.  Run your application.
 
 
 ## Contributing
