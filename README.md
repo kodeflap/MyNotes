@@ -53,7 +53,7 @@ So let's get started.
 ### Installation
 
 
-1. [Clone the repo](https://github.com/poojaOfficial321/Tracker_Go.git)
+1. [Clone the repo](https://github.com/kodeflap/MyNotes.git)
 2. Start a new project as import from Version Control in android studio and paste the clone URL and finish.
 3.  Run your application.
 
@@ -65,7 +65,7 @@ Contributions are what make the open-source project amazing. Which helps to lear
 
 If you have any suggestion or found any issues please free to put your suggestion.
 
-1. You can [clone the repo](https://github.com/poojaOfficial321/All-in-one_Organiser) or Fork it
+1. You can [clone the repo](https://github.com/kodeflap/MyNotes.git) or Fork it
 
 2. Create your branch check out to your branch (git checkout -b)
 Suggested naming **feature/ feature_name
