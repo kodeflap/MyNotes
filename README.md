@@ -1,5 +1,15 @@
-<img src=""/>
-# About MyNotes
+![Untitled design](https://user-images.githubusercontent.com/86681482/190875270-6d08f0d3-aece-49a1-8790-3fa7115144c0.png)
+<p align = "center">
+      <img src = "https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github" height = 25/>
+      <a href= "https://github.com/kodeflap/MyNotes/tags ">
+      <img src = "https://img.shields.io/github/release/kodeFlap/MyNotes.svg" height = 25/></a>
+      <a href= "https://github.com/kodeflap/MyNotes/blob/master/LICENSE ">
+      <img src = "https://img.shields.io/github/license/kodeFlap/MyNotes.svg" height = 25/></a>
+      <img src = "https://img.shields.io/github/contributors/kodeFlap/MyNotes.svg" height = 25/></a>
+      <img src = "https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" height = 25/>
+      <a href= "https://gitHub.com/kodeflap/MyNotes/issues/ ">
+      <img src = "https://img.shields.io/github/issues/kodeFlap/MyNotes.svg" height = 25/></a>
+</p>
 
 My Notes is an app that helps you to keep your base notes. You can insert, update and delete note as you wish. The saved notes can be sorted based on your choice like title, date, color which can be sorted then to ascending and descending as well. The notes app is provided with a color palette where you can choose your personal color. The dark theme in the app helps to stand out your every note you wrote. Just write notes and keep them organized at My Notes. Keep your notes in your space and take notes anywhere you want.
 
