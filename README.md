@@ -85,6 +85,8 @@ Suggested naming **feature/ feature_name
 
 4. Open pull request
 
+Check out the [CONTRIBUTING.md](https://github.com/kodeflap/MyNotes/blob/master/CONTRIBUTING.md) file for more information
+
 ## Where to connect
 
 You can reach out the discussion section opened for the project. Open up any discussion
